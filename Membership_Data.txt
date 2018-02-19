@@ -1,0 +1,4 @@
+1|John|20
+2|Sarah|30
+3|Henry|60
+4|Peter|50

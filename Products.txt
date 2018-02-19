@@ -1,0 +1,4 @@
+1|Product 1|6.72|["Red", "Blue", "Green"]
+2|Product 2|9.12|["Violet", "Pink", "Black"]
+3|Product 3|1.56|["Green", "Orange", "Teal"]
+4|Product 4|3.89|["Indigo", "Red", "Black"]
